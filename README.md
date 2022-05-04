@@ -4,4 +4,4 @@ Repositório criado para o Desafio de projeto.
 
 ##Links Úteis
 
-[Sintaxe basica Markdown](https://docs.github.com/pt/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[Sintaxe basica Markdown](https://www.markdownguide.org/getting-started/)
